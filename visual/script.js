@@ -26,7 +26,35 @@ const posts = [
 //         date: 'May 21, 2026',
 //         time: '',
 //         url: 'photos/photo.webp',
-//         content: formatCaption(`photo caption example`)},    
+//     },
+    {
+        type: 'text',
+        date: 'May 23, 2026',
+        time: '11:00 KST',
+        content: "When twilight wept with silver rain,
+And lonely roads grew dim with pain,
+You stood beneath the grieving sky,
+While careless laughter passed you by.
+
+No faithful hand, no voice replied,
+No shelter waited by your side;
+And I, though called a friend sincere,
+Became the cause of sorrow near.
+
+Forgive the jest, so cold, so vain,
+That deepened more the storm and rain.
+For now my heart bears quiet shame,
+And trembles softly at your name.
+
+Had I but known the weight you bore,
+I would have walked beside you more;
+And held above your weary head
+The warmth and kindness left unsaid.
+
+So let these humble verses prove
+The truth of my regret and love.
+May gentler days our hearts restore,
+And heal the hurt I caused before."   
     {
         type: 'text',
         date: 'May 21, 2026',
